@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 based on steamMarket_dataCollection.py but for collecting index fund data
 consisting of daily price and volume for every item in a game
