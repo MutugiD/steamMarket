@@ -3,6 +3,7 @@ based on steamMarket_dataCollection.py but for collecting index fund data
 consisting of daily price and volume for every item in a game
 """
 
+
 import requests  # make http requests
 import json  # make sense of what the requests return
 import pickle  # save our data to our computer
